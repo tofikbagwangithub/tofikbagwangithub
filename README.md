@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tofik Bagwan</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMw8u9XAejBmmCbaNBvfxpgOB4-0I44HhmdA&s.gif"/>
+<img align="right" alt="coding" width="500" src="https://cdn.prod.website-files.com/6660a5bfdcf6c5fbf039f446/690f574351f562527cf5ebf3_Software%20Engineer%20Career%20Path.jpg"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tofikbagwangithub&label=Profile%20views&color=0e75b6&style=flat" alt="tofikbagwangithub" /> </p>
 
