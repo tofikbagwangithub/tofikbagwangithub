@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/github/followers/tofikbagwangithub?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers"/>
   </a>
   <a href="https://github.com/tofikbagwangithub?tab=repositories">
-    <img src="https://img.shields.io/github/repos/tofikbagwangithub?label=Repositories&style=for-the-badge&logo=github" alt="GitHub Repositories"/>
+    <img src="https://img.shields.io/github/repositories/tofikbagwangithub?label=Repositories&style=for-the-badge&logo=github" alt="GitHub Repositories"/>
   </a>
   <a href="https://github.com/tofikbagwangithub?tab=stars">
     <img src="https://img.shields.io/github/stars/tofikbagwangithub?label=Stars&style=for-the-badge&logo=github" alt="GitHub Stars"/>
