@@ -141,30 +141,10 @@
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tofikbagwangithub&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true" alt="Tofik's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tofikbagwangithub&layout=compact&langs_count=10&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ## 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=tofikbagwangithub&hide_border=true" alt="GitHub Contribution Streak" />
-</p>
-
----
-
-## 📈 Contribution Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tofikbagwangithub&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
@@ -181,17 +161,6 @@
 
 <table>
 <tr>
-<td width="50%">
-
-### ☕ Cafe-Vibes
-
-A collaborative cafe-focused web project designed to provide a modern and engaging user experience.
-
-**Tech:** HTML • CSS • JavaScript
-
-🔗 **Repository:** <a href="https://github.com/VeerParas/Cafe-Vibes">View Project →</a>
-
-</td>
 
 <td width="50%">
 
@@ -263,16 +232,6 @@ If you have an interesting project idea, feel free to connect with me!
 </a>
 
 </p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tofikbagwangithub/tofikbagwangithub/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation"/>
-</p>
-
-> ⚠️ **Note:** The snake section requires a GitHub Actions workflow in your profile repository. If you have not created that workflow yet, remove this section until it is configured.
 
 ---
 
