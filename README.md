@@ -217,7 +217,7 @@ If you have an interesting project idea, feel free to connect with me!
 </a>
 &nbsp;&nbsp;
 
-<a href="mailto:tofik.bagwan10@gmail.com">
+<a href="mailto:tofik.bagwan10@gmail.com" target="_blank">
 <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40" height="40" alt="Email"/>
 </a>
 &nbsp;&nbsp;
