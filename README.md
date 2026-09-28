@@ -217,11 +217,6 @@ If you have an interesting project idea, feel free to connect with me!
 </a>
 &nbsp;&nbsp;
 
-<a href="https://instagram.com/_its_tofik_10" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40" alt="Instagram"/>
-</a>
-&nbsp;&nbsp;
-
 <a href="mailto:tofik.bagwan10@gmail.com">
 <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40" height="40" alt="Email"/>
 </a>
@@ -229,6 +224,16 @@ If you have an interesting project idea, feel free to connect with me!
 
 <a href="https://github.com/tofikbagwangithub" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://app.netlify.com/teams/tofikbagwangithub/projects" target="_blank">
+<img src="https://logowik.com/content/uploads/images/netlify-icon1721159441.logowik.com.webp" width="40" height="40" alt="Netlify"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://instagram.com/_its_tofik_10" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40" alt="Instagram"/>
 </a>
 
 </p>
