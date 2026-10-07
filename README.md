@@ -144,7 +144,7 @@
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=tofikbagwangithub&hide_border=true" alt="GitHub Contribution Streak" />
+  <img src="https://streak-stats.demolab.com/?user=tofikbagwangithub&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
 <p align="center">
