@@ -147,6 +147,14 @@
   <img src="https://streak-stats.demolab.com/?user=tofikbagwangithub&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tofikbagwangithub&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tofikbagwangithub&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
 ---
 
 ## 🏆 GitHub Trophies
